@@ -1,0 +1,1 @@
+C:\Users\Code Nator\IdeaProjects\helloWorld\build\classes\kotlin\main\org\example\Main$Companion.class;C:\Users\Code Nator\IdeaProjects\helloWorld\build\classes\kotlin\main\org\example\Main.class
